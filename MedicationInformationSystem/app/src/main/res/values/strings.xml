@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Medication Information System</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tab">tab</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="planets_array">
+        <item>Intra-venous IV</item>
+        <item>Intra-muscular IM</item>
+        <item>Subcutaneous SC</item>
+        <item>Oral PO</item>
+        <item>Rectal PR</item>
+        <item>Trans- dermal Td</item>
+    </string-array>
+</resources>
