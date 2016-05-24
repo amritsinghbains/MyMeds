@@ -1,0 +1,2 @@
+# MyMeds
+Studies show that 72% of patients are unable to list their meds. Moreover, some patients are cared for by more than one adult child; furthermore, adults could care for more than one dependent (parents, spouse and kids). Therefore, it is critical to empower patients with a solution that allow them , their caregivers and healthcare providers to keep track of their medications and allergies. This app should be able to update the medlist automatically, it should also be secure and accessible from any platform. Details will be discussed during the in-person team meeting
